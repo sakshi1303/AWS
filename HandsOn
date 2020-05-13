@@ -1,3 +1,6 @@
 Run a Serverless "Hello, World!"
 Launch a  Linux Virtual Machine
 Filter messages published to Topics
+Store and Retrieve a File
+Remotely Run commands on an EC2 instance
+Create and Query a NOSQL Table
