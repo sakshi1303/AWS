@@ -7,3 +7,4 @@ Create and Query a NOSQL Table
 Combine AWS Batch & Step Functions to create a video processing workflow
 Send Messages Between Distributed Applications
 Translate Text Between Languages in the Cloud
+Send Fanout Event Notifications
